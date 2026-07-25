@@ -1,0 +1,4 @@
+streamlit
+exif
+folium
+streamlit-folium
